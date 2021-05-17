@@ -166,7 +166,7 @@
     <value>Maximale Anzahl an Zeichen welche diese Profileigenschaft akzeptiert. Geben Sie 0 (Null) ein für eine unbegrenzte Länge.</value>
   </data>
   <data name="DefaultValue.HelpText" xml:space="preserve">
-    <value>Standartwert für diese Profileigenschaft</value>
+    <value>Standardwert für diese Profileigenschaft</value>
   </data>
   <data name="Options.HelpText" xml:space="preserve">
     <value>Kommagetrennte Liste von Optionen aus welchen der Benutzer auswählen kann</value>
@@ -184,7 +184,7 @@
     <value>Länge:</value>
   </data>
   <data name="DefaultValue.Text" xml:space="preserve">
-    <value>Standartwert:</value>
+    <value>Standardwert:</value>
   </data>
   <data name="Options.Text" xml:space="preserve">
     <value>Optionen:</value>

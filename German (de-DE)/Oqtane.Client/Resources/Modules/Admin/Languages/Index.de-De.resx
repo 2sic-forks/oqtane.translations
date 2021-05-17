@@ -127,7 +127,7 @@
     <value>Fehler beim herunterladen des Sprachpackets</value>
   </data>
   <data name="IsDefault.Text" xml:space="preserve">
-    <value>Standartsprache?</value>
+    <value>Standardsprache?</value>
   </data>
   <data name="Code" xml:space="preserve">
     <value>Sprachcode</value>

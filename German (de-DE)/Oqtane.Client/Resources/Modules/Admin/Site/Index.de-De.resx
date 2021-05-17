@@ -136,7 +136,7 @@
     <value>Fehler beim laden der Pane Layouts für das Theme</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Standart-Container:</value>
+    <value>Standard-Container:</value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>Erscheinungsbild</value>
@@ -145,7 +145,7 @@
     <value>Theme auswählen</value>
   </data>
   <data name="Default Admin Container" xml:space="preserve">
-    <value>Standart Admin-Container</value>
+    <value>Standard Admin-Container</value>
   </data>
   <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
     <value>Bitte beachten Sie das der Versand über SMTP einen aktivierten "NotificationJob" in den geplanten Aufgaben benötigt.</value>
@@ -205,13 +205,13 @@
     <value>Geben Sie ein Favicon an</value>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
-    <value>Wählen Sie den Standart-Theme für diese Webseite aus</value>
+    <value>Wählen Sie den Standard-Theme für diese Webseite aus</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Wählen Sie den Standart-Container für diese Webseite aus</value>
+    <value>Wählen Sie den Standard-Container für diese Webseite aus</value>
   </data>
   <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
-    <value>Wählen Sie den Standart Admin-Container für diese Webseite aus</value>
+    <value>Wählen Sie den Standard Admin-Container für diese Webseite aus</value>
   </data>
   <data name="Host.HelpText" xml:space="preserve">
     <value>Geben Sie den Hostnamen des SMTP Servers ein</value>
@@ -262,7 +262,7 @@
     <value>Standard-Theme:</value>
   </data>
   <data name="DefaultAdminContainer.Text" xml:space="preserve">
-    <value>Standart Admin-Container:</value>
+    <value>Standard Admin-Container:</value>
   </data>
   <data name="Host.Text" xml:space="preserve">
     <value>Hostname/IP:</value>
