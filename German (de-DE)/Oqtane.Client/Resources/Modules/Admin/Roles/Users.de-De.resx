@@ -166,7 +166,7 @@
     <value>Fehler beim entfernen des Benutzers aus der Rolle</value>
   </data>
   <data name="Role.HelpText" xml:space="preserve">
-    <value>Rolle welche Sie den Benutzern zuweisen</value>
+    <value>Rolle welche Sie dem Benutzer zuweisen</value>
   </data>
   <data name="User.HelpText" xml:space="preserve">
     <value>Benutzer auswählen</value>
