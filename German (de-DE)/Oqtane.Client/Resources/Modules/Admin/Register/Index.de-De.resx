@@ -151,7 +151,7 @@
     <value>Benutzerkonto erstellt. Bitte prüfen Sie Ihre Emails und folgen Sie den Anweisungen zur Verifikation.</value>
   </data>
   <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Fehler beim hinzufügen des Benutzers. Bitte vergewissern Sie sich das Ihr Passwort den Komplexitätsrichtlinien entspricht  und Ihr Benutzername nicht bereits verwendet wird.</value>
+    <value>Fehler beim hinzufügen des Benutzers. Bitte vergewissern Sie sich das Ihr Passwort den Komplexitätsrichtlinien entspricht und Ihr Benutzername nicht bereits verwendet wird.</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
     <value>Die eingegebenen Passwörter stimmen nicht überein</value>

@@ -118,30 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+    <value>Benutzername:</value>
   </data>
   <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+    <value>Passwort:</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Passwort bestätigen:</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Die eingegebenen Passwörter stimmen nicht überein</value>
   </data>
   <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>You Must Provide A Username, Password, and Email Address</value>
+    <value>Sie müssen einen Benutzernamen, Passwort und Email Adresse angeben.</value>
   </data>
   <data name="Reset Password" xml:space="preserve">
-    <value>Reset Password</value>
+    <value>Passwort zurücksetzen</value>
   </data>
   <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
-    <value>Error Resetting User Password. Please Ensure Password Meets Complexity Requirements.</value>
+    <value>Fehler beim zurücksetzen des Benutzerpassworts. Bitte vergewissern Sie sich das Ihr Passwort den Komplexitätsrichtlinien entspricht.</value>
   </data>
   <data name="Error Resetting User Password" xml:space="preserve">
-    <value>Error Resetting User Password</value>
+    <value>Fehler beim zurücksetzen des Benutzerpassworts</value>
   </data>
 </root>
